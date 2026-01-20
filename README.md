@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**28-rohan/28-rohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rohan Sharma
+CS Undergrad at LNMIIT 
+---
+I am a software engineer actively sharpening my skills in Competitive Programming while simultaneously exploring the frontiers of Blockchain Development. I am currently **learning to develop** decentralized applications while maintaining a daily streak of Data Structures & Algorithms in C++.
 
-Here are some ideas to get you started:
+-  **I’m looking to collaborate on:** Open source Web3 projects and Hackathon teams.
+-  **Fun fact:** I participated in ETHGlobal New Delhi and built a medical records dApp on Hedera.
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Tech Stack
+* **Core:** C++, JavaScript, Solidity
+* **Web Dev:** React.js, Node.js, Tailwind CSS, HTML
+* **Tools:** Git, GitHub, VS Code
+
+---
+**GitHub:** [@28-rohan](https://github.com/28-rohan)
