@@ -15,6 +15,9 @@ tutorials skip. while maintaining a daily streak of Data Structures & Algorithms
 **Backend:** FastAPI, Next.js  
 **Tools:** Git, GitHub, Vs code, Antigravity
 ---
-**GitHub:** [@28-rohan](https://github.com/28-rohan)
 
 Always learning, mostly by breaking things first.
+
+**GitHub:** [@28-rohan](https://github.com/28-rohan)
+**Linkedin:** [Rohan Sharma]([https://github.com/28-rohan](https://www.linkedin.com/in/rohan-sharma-119b37373/))
+
