@@ -18,6 +18,6 @@ tutorials skip. while maintaining a daily streak of Data Structures & Algorithms
 
 Always learning, mostly by breaking things first.
 
-**GitHub:** [@28-rohan](https://github.com/28-rohan)
-**Linkedin:** [Rohan Sharma]([https://github.com/28-rohan](https://www.linkedin.com/in/rohan-sharma-119b37373/))
+**GitHub:** [@28-rohan](https://github.com/28-rohan)   
+**LinkedIn:** [@rohan-sharma](https://www.linkedin.com/in/rohan-sharma-119b37373/)
 
