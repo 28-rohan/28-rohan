@@ -28,6 +28,5 @@ Git • GitHub • VS Code
 
 ### Connect with me
 
-**GitHub:** [@28-rohan](https://github.com/28-rohan)  
 **LinkedIn:** [@rohan-sharma](https://www.linkedin.com/in/rohan-sharma-119b37373/)
 
